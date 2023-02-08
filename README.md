@@ -4,6 +4,7 @@
 
 Here are some ideas to get you started: -->
 
+<img align="right" width="560" height="300" src="https://user-images.githubusercontent.com/87710609/217566086-49ee9890-0921-4b47-9781-85cd8177a821.jpg">
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
@@ -12,6 +13,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: aniket.suvarna0810@gmail.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
 ## 🤝 Connect with me
 
 <div>
