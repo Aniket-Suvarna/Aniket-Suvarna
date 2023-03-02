@@ -29,8 +29,8 @@ Here are some ideas to get you started: -->
 
 
 ## 📊 My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Suvarna&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Suvarna&langs_count=9)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Aniket-Suvarna&theme=buefy&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=Aniket-Suvarna&theme=buefy)
 
 
